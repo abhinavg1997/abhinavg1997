@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [Lispy](https://github.com/abhinavg1997/Lispy)
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **C Programming** by following buildyourownlisp.com
+- I am also learing about Creating LLM's this summer using AkkaIO
 
 - 👨‍💻 All of my School projects are available at [https://github.com/abhinavg-neu/](https://github.com/abhinavg-neu/)
 
