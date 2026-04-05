@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Gangadharan</h1>
-<h3 align="center">Engineer / Developer. Currently Graduate Student @ Northeastern</h3>
+<h3 align="center">Engineer / Developer</h3>
 
-- 🔭 I’m currently working on [Lispy](https://github.com/abhinavg1997/Lispy)
-
-- 🌱 I’m currently learning **C Programming** by following buildyourownlisp.com
-- I am also learing about Creating LLM's this summer using AkkaIO
+- 🔭 I’m currently working on [Lispy](https://abhinavg.me/lispy)
 
 - 👨‍💻 All of my School projects are available at [https://github.com/abhinavg-neu/](https://github.com/abhinavg-neu/)
 
